@@ -1,0 +1,18 @@
+{
+  "name": "@bit/bit.utils.file.extract-file-name-from-path",
+  "version": "0.0.3",
+  "homepage": "https://bit.dev/bit/utils/file/extract-file-name-from-path",
+  "main": "dist/src/file/extractFileNameFromPath/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2"
+  },
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/flow@0.0.6",
+      "tester": "bit.envs/testers/mocha@0.0.5"
+    }
+  }
+}

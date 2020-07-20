@@ -1,0 +1,16 @@
+{
+  "name": "@bit/bit.utils.validation.empty",
+  "version": "0.0.1",
+  "homepage": "https://bit.dev/bit/utils/validation/empty",
+  "main": "dist/src/validation/empty.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/flow@0.0.3",
+      "tester": "bit.envs/testers/mocha@0.0.2"
+    }
+  }
+}

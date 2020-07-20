@@ -1,0 +1,82 @@
+[
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "compilers/react"
+    },
+    "isSymlink": false,
+    "hash": "acfc8a808ec3ad8abacd313c9c8b456c1fd7b0b3"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/get-babel-options"
+    },
+    "isSymlink": false,
+    "hash": "d4771e232e52a7a9ef391bf363d523bc932b014d"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "internal/babel-base-compiler"
+    },
+    "isSymlink": false,
+    "hash": "98f497a5e1cba818d2d5da02020ed566a572b936"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/has-own-property"
+    },
+    "isSymlink": false,
+    "hash": "68b489f0ac79f13787c77dc1fd6a7beb18a7b6ba"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "object/group-by"
+    },
+    "isSymlink": false,
+    "hash": "9155f60c15a0d4c1c0301f15ef2a09a99687ca77"
+  },
+  {
+    "id": {
+      "scope": "bit.envs",
+      "name": "testers/karma-mocha"
+    },
+    "isSymlink": false,
+    "hash": "79a2dd37da263c70837efc321477c86b67133e0d"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "file/extract-file-name-from-path"
+    },
+    "isSymlink": false,
+    "hash": "40b6505e0d7e94e891622864a08c778d10937456"
+  },
+  {
+    "id": {
+      "scope": "bit.utils",
+      "name": "validation/empty"
+    },
+    "isSymlink": false,
+    "hash": "f3eaf6905e683e3a07caa88471fa4fd5637fde13"
+  },
+  {
+    "id": {
+      "scope": null,
+      "name": "common-button"
+    },
+    "isSymlink": true,
+    "hash": "f560a8610b6e44ce8f7570a797230474f1c5c0e8"
+  },
+  {
+    "id": {
+      "scope": "omsingh1410.common-components",
+      "name": "common-button"
+    },
+    "isSymlink": false,
+    "hash": "319f91433de13e415b4c604c826193833ed48467"
+  }
+]
