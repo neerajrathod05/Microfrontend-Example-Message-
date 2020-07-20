@@ -1,8 +1,8 @@
 # Micro Frontends Proof of Concept 
 
 ## Goals
-* create portal-like application with top-header and left-side navigation bar
-navigation bar has links that open sub-applications
+* application where we can stitch more than one frontend framework in the fragment of a page (fragment : header, side navigation bar and content area)
+* side navigation bar will have links that open sub-applications
 * each sub-application can be implemented in different technology (like Angular 5, React 15 and React 16)
 * we can render single sub-application in single page
 * we can render many sub-applications in a single page
