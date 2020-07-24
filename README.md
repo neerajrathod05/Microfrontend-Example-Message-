@@ -47,3 +47,9 @@ npm run build
 npm run serve
 ~~~~
 Now the application is available here: [http://localhost:3000](http://localhost:3000)
+
+### PS - In windows you may get this error ": Filename too long"
+To resolve this issue, please run the following command from GitBash or the Git CMD prompt:
+~~~~
+git config --system core.longpaths true
+~~~~
