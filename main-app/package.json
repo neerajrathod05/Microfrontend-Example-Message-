@@ -95,7 +95,7 @@
     "extends": "react-app"
   },
   "devDependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "@vue/cli-plugin-babel": "^4.1.0",
     "@vue/cli-plugin-router": "^4.1.0",
     "@vue/cli-service": "^4.1.0",
